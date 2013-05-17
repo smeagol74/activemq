@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.apache.activemq.store.cassandra.adapter;
+package org.apache.activemq.store.cassandra1.adapter;
 
 import java.io.IOException;
 import java.sql.Connection;
@@ -34,8 +34,8 @@ import org.apache.activemq.command.MessageId;
 import org.apache.activemq.command.ProducerId;
 import org.apache.activemq.command.SubscriptionInfo;
 import org.apache.activemq.command.XATransactionId;
-import org.apache.activemq.store.cassandra.*;
-import org.apache.activemq.store.cassandra.CassandraPersistenceAdapter;
+import org.apache.activemq.store.cassandra1.*;
+import org.apache.activemq.store.cassandra1.CassandraPersistenceAdapter;
 import org.apache.activemq.util.DataByteArrayOutputStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

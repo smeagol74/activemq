@@ -14,12 +14,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.apache.activemq.store.cassandra.adapter;
+package org.apache.activemq.store.cassandra1.adapter;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import org.apache.activemq.store.cassandra.Statements;
+import org.apache.activemq.store.cassandra1.Statements;
 
 /**
  * 
