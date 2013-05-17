@@ -219,6 +219,7 @@
     <module>activemq-kahadb-store</module>
     <module>activemq-amq-store</module>
     <module>activemq-jdbc-store</module>
+    <module>activemq-cassandra-store</module>    
     <module>activemq-leveldb-store</module>
 
     <module>activemq-unit-tests</module>
